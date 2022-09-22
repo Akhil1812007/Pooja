@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonAPI", "AmazonAPI.csproj", "{21B7077C-F03F-42C0-A055-6DB041B544DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonAPITesting", "..\..\API example withTest\AmazonAPITesting\AmazonAPITesting.csproj", "{78DB9672-7584-4DDA-B201-4754655ADD9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonAPITesting", "..\TEST\AmazonAPITesting.csproj", "{DAE4F9EA-0385-435A-871F-4CAD66D4DDC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{21B7077C-F03F-42C0-A055-6DB041B544DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21B7077C-F03F-42C0-A055-6DB041B544DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21B7077C-F03F-42C0-A055-6DB041B544DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78DB9672-7584-4DDA-B201-4754655ADD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78DB9672-7584-4DDA-B201-4754655ADD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78DB9672-7584-4DDA-B201-4754655ADD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78DB9672-7584-4DDA-B201-4754655ADD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE4F9EA-0385-435A-871F-4CAD66D4DDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE4F9EA-0385-435A-871F-4CAD66D4DDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE4F9EA-0385-435A-871F-4CAD66D4DDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE4F9EA-0385-435A-871F-4CAD66D4DDC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
