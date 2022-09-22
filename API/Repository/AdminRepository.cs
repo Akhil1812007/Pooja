@@ -8,6 +8,7 @@ namespace AmazonAPI.Repository
         private readonly AmazonContext _context;
         public AdminRepository(AmazonContext context)
         {
+            //
             _context = context;
         }
 
